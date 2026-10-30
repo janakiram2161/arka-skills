@@ -1,0 +1,47 @@
+name: Site check (arkaschmuck.de vs. ARKA app)
+
+# Used by the arka-flutter-app skill. Run by pushing any commit to the branch
+# "site-check" (or from the Actions tab). The report is pushed to the branch
+# "ci-site-check" of this repository.
+on:
+  push:
+    branches: [site-check]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Skills repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: skills
+
+      - name: App repo (read only)
+        uses: actions/checkout@v4
+        with:
+          repository: janakiram2161/arka-mobile-app
+          ref: main
+          path: app
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install requests playwright && python -m playwright install --with-deps chromium
+
+      - name: Check the shop
+        working-directory: app
+        run: python ../skills/arka-flutter-app/scripts/site_check.py 2>&1 | tee site-check.log
+        continue-on-error: true
+
+      - name: Save report
+        if: always()
+        run: |
+          mkdir -p app/site-check && cp app/site-check.log app/site-check/ || true
+          cd app/site-check && git init -q && git add . && git -c user.name=ci -c user.email=ci@users.noreply.github.com commit -qm "Site check ${{ github.run_number }}"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:refs/heads/ci-site-check
