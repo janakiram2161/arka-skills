@@ -1,0 +1,502 @@
+{
+ "errors": [],
+ "categories": [
+  {
+   "id": 83,
+   "name": "Armbänder",
+   "slug": "armbander",
+   "count": 55,
+   "parent": 0,
+   "image": "https://arkaschmuck.de/wp-content/uploads/2026/02/Gemini_Generated_Image_kikl13kik.webp"
+  },
+  {
+   "id": 85,
+   "name": "Combos",
+   "slug": "combos",
+   "count": 25,
+   "parent": 0,
+   "image": "https://arkaschmuck.de/wp-content/uploads/2026/02/2P2A7320.webp"
+  },
+  {
+   "id": 98,
+   "name": "Geschenkkarte",
+   "slug": "geschenk-karte",
+   "count": 1,
+   "parent": 0,
+   "image": "https://arkaschmuck.de/wp-content/uploads/2026/02/ChatGPT-Image-Feb-21-2026-12_55_04-AM.png"
+  },
+  {
+   "id": 88,
+   "name": "Ketten",
+   "slug": "ketten",
+   "count": 58,
+   "parent": 0,
+   "image": "https://arkaschmuck.de/wp-content/uploads/2026/02/2P2A9830.webp"
+  },
+  {
+   "id": 87,
+   "name": "Ohrringe",
+   "slug": "ohrringe",
+   "count": 37,
+   "parent": 0,
+   "image": "https://arkaschmuck.de/wp-content/uploads/2026/02/2P2A9638.webp"
+  },
+  {
+   "id": 84,
+   "name": "Ringe",
+   "slug": "ringe",
+   "count": 10,
+   "parent": 0,
+   "image": "https://arkaschmuck.de/wp-content/uploads/2026/02/2P2A5179.webp"
+  }
+ ],
+ "products_total": 186,
+ "product_types_newest_100": {
+  "simple": 97,
+  "variable": 3
+ },
+ "newest_products": [
+  {
+   "id": 3219,
+   "name": "Elegant Butterfly Gold Ring",
+   "price": "1099"
+  },
+  {
+   "id": 3211,
+   "name": "Royal Blue Drop Earrings",
+   "price": "1449"
+  },
+  {
+   "id": 3204,
+   "name": "Golden Stone Charm Earrings",
+   "price": "1399"
+  },
+  {
+   "id": 3197,
+   "name": "Minimalist Golden Bow Earrings",
+   "price": "1099"
+  },
+  {
+   "id": 3190,
+   "name": "Elegant Golden Bow Earrings",
+   "price": "1230"
+  }
+ ],
+ "legal_pages": [
+  {
+   "slug": "versand-and-zahlung",
+   "found": true,
+   "id": 1786,
+   "title": "Versand and Zahlung",
+   "modified": "2026-02-22T05:15:44",
+   "link": "https://arkaschmuck.de/versand-and-zahlung/",
+   "text_chars": 3383
+  },
+  {
+   "slug": "widerrufsbelehrung",
+   "found": true,
+   "id": 1792,
+   "title": "Widerrufsbelehrung",
+   "modified": "2026-02-22T05:15:31",
+   "link": "https://arkaschmuck.de/widerrufsbelehrung/",
+   "text_chars": 4266
+  },
+  {
+   "slug": "agb",
+   "found": true,
+   "id": 1765,
+   "title": "AGB",
+   "modified": "2026-02-22T05:17:54",
+   "link": "https://arkaschmuck.de/agb/",
+   "text_chars": 4602
+  },
+  {
+   "slug": "datenschutzerklarung",
+   "found": true,
+   "id": 2193,
+   "title": "Datenschutzerklärung",
+   "modified": "2026-02-22T05:17:32",
+   "link": "https://arkaschmuck.de/datenschutzerklarung/",
+   "text_chars": 4687
+  },
+  {
+   "slug": "impressum",
+   "found": true,
+   "id": 1776,
+   "title": "Impressum",
+   "modified": "2026-02-22T05:16:12",
+   "link": "https://arkaschmuck.de/impressum/",
+   "text_chars": 2753
+  }
+ ],
+ "menu": [
+  {
+   "text": "WhatsApp",
+   "href": "https://wa.me/4915565795022",
+   "area": "header"
+  },
+  {
+   "text": "Facebook",
+   "href": "https://www.facebook.com/profile.php?id=61586291597553",
+   "area": "header"
+  },
+  {
+   "text": "Instagram",
+   "href": "https://www.instagram.com/arkaschmuck/",
+   "area": "header"
+  },
+  {
+   "text": "YouTube",
+   "href": "https://www.youtube.com/@Arkaschmuck",
+   "area": "header"
+  },
+  {
+   "text": "HOME",
+   "href": "https://arkaschmuck.de/",
+   "area": "header"
+  },
+  {
+   "text": "SHOP",
+   "href": "https://arkaschmuck.de/shop/",
+   "area": "header"
+  },
+  {
+   "text": "Kategorien",
+   "href": "https://arkaschmuck.de/shop/",
+   "area": "header"
+  },
+  {
+   "text": "Alle Produkte",
+   "href": "https://arkaschmuck.de/shop/",
+   "area": "header"
+  },
+  {
+   "text": "Armbänder",
+   "href": "https://arkaschmuck.de/product-category/armbander/",
+   "area": "header"
+  },
+  {
+   "text": "Combos",
+   "href": "https://arkaschmuck.de/product-category/combos/",
+   "area": "header"
+  },
+  {
+   "text": "Ketten",
+   "href": "https://arkaschmuck.de/product-category/ketten/",
+   "area": "header"
+  },
+  {
+   "text": "Ohrringe",
+   "href": "https://arkaschmuck.de/product-category/ohrringe/",
+   "area": "header"
+  },
+  {
+   "text": "Ringe",
+   "href": "https://arkaschmuck.de/product-category/ringe/",
+   "area": "header"
+  },
+  {
+   "text": "Geschenkkarte",
+   "href": "https://arkaschmuck.de/product-category/geschenk-karte/",
+   "area": "header"
+  },
+  {
+   "text": "Zubehör",
+   "href": "https://arkaschmuck.de/product-category/zubehor/",
+   "area": "header"
+  },
+  {
+   "text": "SALE",
+   "href": "",
+   "area": "header"
+  },
+  {
+   "text": "LAUNCH SALE",
+   "href": "https://arkaschmuck.de/shop/?onsale=1",
+   "area": "header"
+  },
+  {
+   "text": "SALE 30%",
+   "href": "https://arkaschmuck.de/shop/?discount=30",
+   "area": "header"
+  },
+  {
+   "text": "SALE 50%",
+   "href": "https://arkaschmuck.de/shop/?discount=50",
+   "area": "header"
+  },
+  {
+   "text": "SALE 70%",
+   "href": "https://arkaschmuck.de/shop/?discount=70",
+   "area": "header"
+  },
+  {
+   "text": "SALE ALL",
+   "href": "https://arkaschmuck.de/shop/?onsale=1",
+   "area": "header"
+  },
+  {
+   "text": "Alle Produkte",
+   "href": "https://arkaschmuck.de/shop/?onsale=1",
+   "area": "header"
+  },
+  {
+   "text": "Armbänder",
+   "href": "https://arkaschmuck.de/product-category/armbander/?onsale=1",
+   "area": "header"
+  },
+  {
+   "text": "Combos",
+   "href": "https://arkaschmuck.de/product-category/combos/?onsale=1",
+   "area": "header"
+  },
+  {
+   "text": "Ketten",
+   "href": "https://arkaschmuck.de/product-category/ketten/?onsale=1",
+   "area": "header"
+  },
+  {
+   "text": "Ohrringe",
+   "href": "https://arkaschmuck.de/product-category/ohrringe/?onsale=1",
+   "area": "header"
+  },
+  {
+   "text": "Ringe",
+   "href": "https://arkaschmuck.de/product-category/ringe/?onsale=1",
+   "area": "header"
+  },
+  {
+   "text": "Zubehör",
+   "href": "https://arkaschmuck.de/product-category/zubehor/?onsale=1",
+   "area": "header"
+  },
+  {
+   "text": "BESTSELLERS",
+   "href": "",
+   "area": "header"
+  },
+  {
+   "text": "BESTSELLERS",
+   "href": "https://arkaschmuck.de/product-tag/bestsellers/",
+   "area": "header"
+  },
+  {
+   "text": "Alle Produkte",
+   "href": "https://arkaschmuck.de/product-tag/bestsellers/",
+   "area": "header"
+  },
+  {
+   "text": "Armbänder",
+   "href": "https://arkaschmuck.de/shop/?product_cat=armbander&product_tag=bestsellers",
+   "area": "header"
+  },
+  {
+   "text": "Combos",
+   "href": "https://arkaschmuck.de/shop/?product_cat=combos&product_tag=bestsellers",
+   "area": "header"
+  },
+  {
+   "text": "Ketten",
+   "href": "https://arkaschmuck.de/shop/?product_cat=ketten&product_tag=bestsellers",
+   "area": "header"
+  },
+  {
+   "text": "Ohrringe",
+   "href": "https://arkaschmuck.de/shop/?product_cat=ohrringe&product_tag=bestsellers",
+   "area": "header"
+  },
+  {
+   "text": "Ringe",
+   "href": "https://arkaschmuck.de/shop/?product_cat=ringe&product_tag=bestsellers",
+   "area": "header"
+  },
+  {
+   "text": "Zubehör",
+   "href": "https://arkaschmuck.de/shop/?product_cat=zubehor&product_tag=bestsellers",
+   "area": "header"
+  },
+  {
+   "text": "NEUHEITEN",
+   "href": "",
+   "area": "header"
+  },
+  {
+   "text": "NEUHEITEN",
+   "href": "https://arkaschmuck.de/product-tag/new/",
+   "area": "header"
+  },
+  {
+   "text": "Alle Produkte",
+   "href": "https://arkaschmuck.de/product-tag/new/",
+   "area": "header"
+  },
+  {
+   "text": "Armbänder",
+   "href": "https://arkaschmuck.de/shop/?product_cat=armbander&product_tag=new",
+   "area": "header"
+  },
+  {
+   "text": "Combos",
+   "href": "https://arkaschmuck.de/shop/?product_cat=combos&product_tag=new",
+   "area": "header"
+  },
+  {
+   "text": "Ketten",
+   "href": "https://arkaschmuck.de/shop/?product_cat=ketten&product_tag=new",
+   "area": "header"
+  },
+  {
+   "text": "Ohrringe",
+   "href": "https://arkaschmuck.de/shop/?product_cat=ohrringe&product_tag=new",
+   "area": "header"
+  },
+  {
+   "text": "Ringe",
+   "href": "https://arkaschmuck.de/shop/?product_cat=ringe&product_tag=new",
+   "area": "header"
+  },
+  {
+   "text": "Zubehör",
+   "href": "https://arkaschmuck.de/shop/?product_cat=zubehor&product_tag=new",
+   "area": "header"
+  },
+  {
+   "text": "AGB",
+   "href": "https://arkaschmuck.de/agb/",
+   "area": "footer"
+  },
+  {
+   "text": "Impressum",
+   "href": "https://arkaschmuck.de/impressum",
+   "area": "footer"
+  },
+  {
+   "text": "Versand and Zahlung",
+   "href": "https://arkaschmuck.de/versand-and-zahlung",
+   "area": "footer"
+  },
+  {
+   "text": "Widerrufsbelehrung",
+   "href": "https://arkaschmuck.de/widerrufsbelehrung",
+   "area": "footer"
+  },
+  {
+   "text": "Datenschutzerklärung",
+   "href": "https://arkaschmuck.de/datenschutzerklarung",
+   "area": "footer"
+  },
+  {
+   "text": "Teilnahmebedingungen",
+   "href": "https://arkaschmuck.de/teilnahmebedingungen",
+   "area": "footer"
+  },
+  {
+   "text": "Cookie-Einstellungen",
+   "href": "https://arkaschmuck.de/cookies-einstellungen",
+   "area": "footer"
+  },
+  {
+   "text": "PER A CAUSE.",
+   "href": "https://peracause.com/",
+   "area": "footer"
+  },
+  {
+   "text": "SHOP",
+   "href": "",
+   "area": "header"
+  },
+  {
+   "text": "Alle Produkte",
+   "href": "https://arkaschmuck.de/shop",
+   "area": "header"
+  },
+  {
+   "text": "LAUNCH SALE",
+   "href": "",
+   "area": "header"
+  }
+ ],
+ "home_banners": [
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/4.avif",
+  "https://arkaschmuck.de/wp-content/uploads/2026/03/3.avif",
+  "https://arkaschmuck.de/wp-content/uploads/2026/03/Essenzielle-Eleganz-in-feinster-Form-1-1.webp",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/Gemini_Generated_Image_30ql0f30ql0f30ql.avif",
+  "https://arkaschmuck.de/wp-content/uploads/2026/03/arka-mobile.avif",
+  "https://arkaschmuck.de/wp-content/uploads/2026/03/Shop-Now-1.avif",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/Bracelets.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/Necklace.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/Earrings.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/7.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/8.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/9.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/Combos.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/Rings.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/clean-water.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/fast.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/delivery-date.png",
+  "https://arkaschmuck.de/wp-content/uploads/2026/02/certificate.png"
+ ],
+ "checkout_handover": [
+  "GET cart 200",
+  "DELETE 200",
+  "ADD 3219 201",
+  "ADD 3211 201",
+  "items_count=2"
+ ],
+ "checkout_final_url": "https://arkaschmuck.de/checkout/",
+ "checkout": {
+  "payment_methods": [
+   {
+    "id": "woocommerce_payments",
+    "label": "Karte"
+   },
+   {
+    "id": "woocommerce_payments_eps",
+    "label": "EPS"
+   },
+   {
+    "id": "woocommerce_payments_ideal",
+    "label": "iDEAL | Wero"
+   },
+   {
+    "id": "woocommerce_payments_klarna",
+    "label": "Klarna"
+   },
+   {
+    "id": "ppcp-gateway",
+    "label": "PayPal"
+   },
+   {
+    "id": "bacs",
+    "label": "Direct bank transfer"
+   }
+  ],
+  "selectors": {
+   ".pls-promo-bar": 1,
+   "#header": 1,
+   ".pls-site-header": 1,
+   "#footer": 1,
+   ".pls-site-footer": 1,
+   ".pls-mobile-navbar": 1,
+   ".pls-back-to-top": 1,
+   ".pls-mobile-menu": 1,
+   ".pls-search-popup": 1,
+   ".pls-minicart-slide": 1,
+   ".pls-mask-overaly": 1,
+   "#wpconsent-root": 1,
+   ".pls-page-title": 1,
+   "#page-title": 1,
+   ".woocommerce-breadcrumb": 0,
+   ".gt_float_switcher": 0,
+   ".gtranslate_wrapper": 0,
+   ".elementor-location-header": 0,
+   ".elementor-location-footer": 0
+  },
+  "totals": [
+   "Subtotal €25,48",
+   "Sendung Flat rate: €3,99",
+   "Total €29,47"
+  ],
+  "has_cookie_banner_root": true
+ }
+}
